@@ -959,7 +959,7 @@
     "@types/zen-observable": "^0.8.0",
     "@typescript-eslint/eslint-plugin": "^5.20.0",
     "@typescript-eslint/parser": "^5.20.0",
-    "@typescript-eslint/typescript-estree": "^5.20.0",
+    "@typescript-eslint/typescript-estree": "^5.44.0",
     "@wojtekmaj/enzyme-adapter-react-17": "^0.6.7",
     "@yarnpkg/lockfile": "^1.1.0",
     "abab": "^2.0.4",
